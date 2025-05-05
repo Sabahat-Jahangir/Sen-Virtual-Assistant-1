@@ -1,5 +1,5 @@
 
-This is a basic Virtual Assistant built using Python. It can perform various tasks like opening websites, telling the time/date, responding to simple voice commands, and providing basic automation features. The assistant uses Python libraries like `speech_recognition`, `pyttsx3`, and `webbrowser` to understand and respond to user input.
+This is a basic Virtual Assistant built using Python. It can perform various tasks like opening websites, telling the time/date, responding to simple voice commands, and providing basic automation features. The assistant uses Python libraries like speech_recognition, pyttsx3, and webbrowser to understand and respond to user input.
 
 **🔧 Features:**
 
